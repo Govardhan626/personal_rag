@@ -1,6 +1,13 @@
 # personal_rag
 
-# STILL IN development 
+# still developing 
+
+Plans are : 
+
+   1) Create a website Like (chatgpt Clone )
+   2) introduce image processing and understanding images
+   3) With Text it may also Generate Images
+
 
 ### Here I created a Personal RAG 
 
