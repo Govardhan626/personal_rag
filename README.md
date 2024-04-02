@@ -21,11 +21,21 @@ Plans are :
 
 Example  
 
-Query: what is  Assent to Bills
-[INFO] Time taken to get scores on 823 embeddings: 0.00009 seconds.
-Answer:
+### Query: what is  Assent to Bills
+###### [INFO] Time taken to get scores on 823 embeddings: 0.00009 seconds.
 
-According to the context, the procedure for  assent to Bills is outlined in
-articles 200 and 201 of the Constitution of India. A Bill must be presented to
-the President for assent by the Legislative Assembly or the Governor, and the
-President must either assent to the Bill or withhold assent.
+
+
+### Answer:
+
+#### According to the context, the procedure for  assent to Bills is outlined inarticles 200 and 201 of the Constitution of India. A Bill must be presented tothe President for assent by the Legislative Assembly or the Governor, and thePresident must either assent to the Bill or withhold assent.
+
+
+
+## 2nd Example: 
+
+#### Query: what is Finance Commission?
+[INFO] Time taken to get scores on 823 embeddings: 0.00006 seconds.
+#### Answer:
+
+#### The relevant passage from the context is:  >152 PART XII  FINANCE, PROPERTY,CONTRACTS AND SUITS  CHAPTER I.FINANCE  General  1264.Interpretation.In thisPart, Finance Commission means a Finance Commission constituted under article 280.
