@@ -1,0 +1,9 @@
+{
+	"name": "azurerag1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71341fae-2495-4004-b3eb-f1beff489038",
+		"tenantId": "05ff87c1-a3a1-4d83-a071-e1c27e73a603"
+	}
+}
